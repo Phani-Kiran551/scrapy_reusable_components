@@ -1,0 +1,3 @@
+[config]
+TABLE_URLS_LIST=https://www.skysports.com/premier-league-table
+REVIEWS_URL_LIST=https://www.amazon.in/Akatsuki-Cosplay-Village-Costume-Accessory/product-reviews/B01NGT5HYO/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
